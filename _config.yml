@@ -1,0 +1,14 @@
+# Base configs
+baseurl: "https://nhatn1507.github.io/photography/"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Photography by Nhat"
+subtitle: "The world is awaiting!"
+author: "Nhat Nguyen"
+bio: "an adventurer at heart "
+social_urls:
+  instagram: "https://www.instagram.com/nhatn1507/"
+  github: "https://www.github.com/nhatn1507"
+  
